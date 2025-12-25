@@ -1,0 +1,20 @@
+{
+  "name": "music-sharity-proxy",
+  "version": "1.0.0",
+  "description": "Privacy-first CORS proxy for Music Sharity",
+  "main": "worker.js",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "cors",
+    "proxy",
+    "music",
+    "privacy"
+  ],
+  "author": "Sikelio (Byte Roast)",
+  "license": "GPL-3.0"
+}
